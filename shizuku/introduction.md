@@ -13,7 +13,8 @@ The birth of Shizuku has two main purposes.
 
 ## Shizuku vs. "Old school" method
 
-### "Old school" method
+### "Old school" metm
+hod
 
 For example, to enable/disable components, some apps that require root privileges execute `pm disable` directly in `su`.
 
